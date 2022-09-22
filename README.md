@@ -1,0 +1,2 @@
+# Sample_Generics_Java
+Javaのジェネリクスの実装練習
